@@ -1,0 +1,15 @@
+[user]
+  name = John Anderson
+  email = sontek@gmail.com
+
+[push]
+  default = current
+
+[commit]
+  template = ~/.gitmessage
+
+[core]
+  editor = emacs
+
+[color]
+  ui = true
